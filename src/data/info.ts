@@ -109,14 +109,14 @@ export const info = {
   socialMedia: {
     facebook: "https://www.facebook.com/profile.php?id=100022899849583",
     medium: "https://medium.com/@yashcodedev",
-    github: "https://github.com/philomathaf",
+    github: "https://github.com/ak3ph",
     email: "mailto:yashcodedev@gmail.com",
     linkedin: "https://www.linkedin.com/in/yashthakur666/",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
