@@ -64,17 +64,6 @@ export const info = {
         "- Worked closely with teams to deliver custom web solutions, improving user experience and functionality.",
       ],
     },
-    // {
-    //   name: "Interns Pakistan",
-    //   place: "",
-    //   location: "Pakistan",
-    //   startDate: "Oct 2020",
-    //   endDate: "Nov 2020",
-    //   description: [
-    //     "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-    //     "The internship track is built by an industry expert that let develop the skills in the areas most important ",
-    //   ],
-    // },
   ],
 
   education: [
@@ -95,15 +84,7 @@ export const info = {
       description: [
         "Higher Secondary Education in commerce.",
       ],
-      // description: ["Intermediate, Pre-Engineering"],
     },
-    // {
-    //   name: "Ghazi Foundation Schools & Colleges",
-    //   location: "Karāchi, Sindh, Pakistan",
-    //   startDate: "2016",
-    //   endDate: "2018",
-    //   description: ["Matriculation,  Computer Science"],
-    // },
   ],
 
   socialMedia: {
